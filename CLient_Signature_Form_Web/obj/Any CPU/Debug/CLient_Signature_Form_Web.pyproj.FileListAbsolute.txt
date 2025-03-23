@@ -1,0 +1,2 @@
+C:\Users\Blendi\source\repos\CLient_Signature_Form_Web\CLient_Signature_Form_Web\obj\Any CPU\Debug\CLient_Signature_Form_Web.pyproj.SuggestedBindingRedirects.cache
+C:\Users\Blendi\source\repos\CLient_Signature_Form_Web\CLient_Signature_Form_Web\obj\Any CPU\Debug\CLient_Signature_Form_Web.pyproj.CoreCompileInputs.cache
