@@ -36,6 +36,9 @@
     <Folder Include="CLient_Signature_Form_Web\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CLient_Signature_Form_Web\.env">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="CLient_Signature_Form_Web\static\signature_pad.js" />
     <Content Include="CLient_Signature_Form_Web\static\styles.css" />
     <Content Include="CLient_Signature_Form_Web\templates\index.html" />
